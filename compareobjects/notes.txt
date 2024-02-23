@@ -1,0 +1,5 @@
+1. Created 2 Objects obj1 and obj2 , if same variable = true 
+2. Then created the if condition ( True = to compare its length )  and else condtion ( length are different )
+3. If the condition is true it goes to the for loop and compares the keys - same or not - and gives which are different 
+4. Create the if and else - to print object are same or different - the all the loop get completed 
+

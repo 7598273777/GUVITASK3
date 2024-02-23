@@ -1,0 +1,8 @@
+Steps i have done 
+
+1. Took the XML HTTP REQUEST API URL from website 
+2. Created Script.js and pasted - Altered as of to get flags when it is opened in the browser 
+3. Created the Index.html file  and mentioned in script src as script.js
+4. Right click and go with live server 
+5. when it gets open in the browser - go to inspect ==> console ===> there displays the url of flags 
+6. when you click the url its dispalys the flag of countries 
